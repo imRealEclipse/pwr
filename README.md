@@ -1,4 +1,4 @@
- [https://img.shields.io/badge/fast-and-easy-brightred?style=for-the-badge]
+ [https://img.shields.io/badge/fast-and-easy-brightgreen?style=for-the-badge]
 
 # for windows;
 # for downloading the code
