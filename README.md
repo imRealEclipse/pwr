@@ -23,7 +23,7 @@ git clone https://github.com/kullaniciadi/pwr.git
 go to project directory
 cd pwr
 
-# Upload addictions
+### Upload addictions
 pip3 install -r requirements.txt
 
 
