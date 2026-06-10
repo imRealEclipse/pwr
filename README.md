@@ -2,6 +2,7 @@
 
 
 ![Windows](https://img.shields.io/badge/windows-x64-blue?style=for-the-badge&logo=windows)
+
 for downloading the code
 git clone https://github.com/imrealeclipse/pwr.git
 
@@ -12,6 +13,7 @@ Install the required dependencies
 pip install -r requirements.txt
 
 ![Linux](https://img.shields.io/badge/linux-debian-red?style=for-the-badge&logo=linux)
+
 Install the necessary system packages
 sudo apt update && sudo apt install git [python3-pip] -y
 
