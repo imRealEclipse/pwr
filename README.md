@@ -2,7 +2,7 @@
 
 
 ![Windows](https://img.shields.io/badge/windows-x64-blue?style=for-the-badge&logo=windows)
-# for downloading the code
+for downloading the code
 git clone https://github.com/imrealeclipse/pwr.git
 
 go to project directory
