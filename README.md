@@ -1,3 +1,5 @@
+ https://img.shields.io/badge/fast-and-easy-brightred?style=for-the-badge
+
 # for windows;
 # for downloading the code
 git clone https://github.com/imrealeclipse/pwr.git
