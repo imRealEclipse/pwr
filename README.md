@@ -1,6 +1,5 @@
- [https://img.shields.io/badge/fast-and-easy-brightgreen?style=for-the-badge]
 
-# for windows;
+![Windows](https://img.shields.io/badge/windows-x64-blue?style=for-the-badge&logo=windows)
 # for downloading the code
 git clone https://github.com/imrealeclipse/pwr.git
 
