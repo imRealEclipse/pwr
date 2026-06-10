@@ -3,24 +3,24 @@
 
 ![Windows](https://img.shields.io/badge/windows-x64-blue?style=for-the-badge&logo=windows)
 
-for downloading the code
+### for downloading the code
 git clone https://github.com/imrealeclipse/pwr.git
 
-go to project directory
+### go to project directory
 cd pwr
 
-Install the required dependencies
+### Install the required dependencies
 pip install -r requirements.txt
 
 ![Linux](https://img.shields.io/badge/linux-debian-red?style=for-the-badge&logo=linux)
 
-Install the necessary system packages
+### Install the necessary system packages
 sudo apt update && sudo apt install git [python3-pip] -y
 
-Clone the project
+### Clone the project
 git clone https://github.com/kullaniciadi/pwr.git
 
-go to project directory
+### go to project directory
 cd pwr
 
 ### Upload addictions
